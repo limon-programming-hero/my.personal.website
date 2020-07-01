@@ -1,0 +1,204 @@
+body {
+    font-family: 'Poppins';font-size: 22px;
+    margin: 0px;
+}
+
+
+.heading{
+
+    background-image: url(images/header-bg.png);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+
+.divide-area{
+
+width: 39%;
+margin: 4%;
+float: left;
+
+
+
+}
+
+
+
+
+.divide-area img{
+
+    width: 100%;
+   
+    }
+    
+
+
+
+#name{
+
+color: hotpink;
+font-size: 40px;
+
+
+
+}
+
+
+
+
+.highlight{
+
+color: white;
+text-decoration: none;
+background-color: hotpink;
+border-radius: 4px;
+padding: 8px;
+font-weight: 700;
+
+}
+
+
+
+
+.biography{
+
+background-image: url(images/biography-bg.png);
+height: 600px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.work-div{
+
+width: 22%;
+margin-left: 7%;
+float: left;
+
+}
+
+
+.work-div img{
+
+width: 100%;
+height: 200px;
+
+}
+
+
+.work-section{
+
+height: 400px;
+background-image: url(images/latest-work-bg.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.work-head{
+
+text-align: center left;
+
+
+}
+
+.middle{
+
+text-decoration: none;
+
+
+
+}
+
+.last-div{
+
+   font-size: 15px;
+    text-decoration: none;
+    background-color: hotpink;
+    border-radius: 8px;
+    padding: 10px;
+vertical-align: middle;
+text-align: center ;
+    height: 70px;
+width: 400px;
+ position: relative;
+left: 480px;
+}
+
+
+
+.last-section{
+
+
+height: 600px;
+background-image: url(images/footer-bg.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.footer{
+
+    text-align: center;
+    color: grey;
+font-size: 13px;
+position: relative;
+top: 180px;
+
+}
+
+
+.orange{
+
+color: orange;
+
+
+}
+
+.orange:hover{
+text-align: center;
+box-shadow:8px 8px 30px rgba(0, 162, 255, 0.644);
+
+}
+
+
+
+.shadow{
+
+width: 40%;
+margin: 4%;
+box-shadow: 10px 10px 40px gray;
+float: left;
+padding: 8px;
+
+
+}
+
+
+.shadow:hover{
+
+    box-shadow: 10px 10px 40px rgba(236, 29, 29, 0.507);
+    
+
+
+}
+
+.gradient{
+
+color: white;
+background-image: linear-gradient(48deg, orange, tomato);
+text-decoration: none;
+position: relative;
+left: 200px;
+padding: 8px;
+
+
+}
+
+
+.last{
+
+height: 500px;
+background-image: url(images/header-bg.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
